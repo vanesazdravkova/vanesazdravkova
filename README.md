@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vanesa Zdravkova
-- :student: 
+- :woman_student: 
 - 👀 I’m interested in coding, travelling and live my life to the fullest
 - 🌱 I’m currently learning Java and JavaScript @ SoftUni
 - 📫 Reach me: vanesa.zdravkova@gmail.com
