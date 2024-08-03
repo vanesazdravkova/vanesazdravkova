@@ -13,7 +13,6 @@
 - :woman_student: Bachelor's degree in Computer Science from TU Darmstadt, Germany
 - 💻 Currently pursuing a Master's degree in IT Security at TU Darmstadt, Germany
 - 💻 Currently learning Java and JavaScript at SoftUni
-- 🥅 2022 Goals: Starting my career as a programmer
 - ⚡ I like coding, traveling and living my life to the fullest
 - 📫 Reach me: vanesa.zdravkova@gmail.com
 
