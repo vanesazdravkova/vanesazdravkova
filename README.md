@@ -1,6 +1,5 @@
 ## Hi there, I'm Vanesa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vanesazdravkova)
 [![Years Badge](https://badges.pufler.dev/years/vanesazdravkova)](https://badges.pufler.dev)
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/vanessa.zdravkova/)
