@@ -9,9 +9,9 @@
 
 ##
 
+- ⚡ I'm a SIEM engineer with a passion for cybersecurity — lately diving into pentesting trainings, which I find truly exciting. I also like coding, traveling and living my life to the fullest.
 - :woman_student: Bachelor's degree in Computer Science from TU Darmstadt, Germany
 - 💻 Currently pursuing a Master's degree in IT Security at TU Darmstadt, Germany
-- ⚡ I'm a SIEM engineer with a passion for cybersecurity — lately diving into pentesting trainings, which I find truly exciting. I also like coding, traveling and living my life to the fullest.
 - 📫 Reach me: vanesa.zdravkova@gmail.com
 
 <p>
